@@ -1,2 +1,2 @@
 # THE-TORTOISE-AND-THE-HARE
-kaplumbağa tavşan yarışı
+The race involves contenders starting at square 1 on a 70-square course, aiming to reach or pass square 70 to win. Each square represents a position, with the finish line at square 70. The race includes challenges like slipping back occasionally. The program adjusts the contenders' positions every second based on specific rules. Contenders start at position 1, and if they slip before square 1, they're moved back to the starting point.
